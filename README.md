@@ -1,5 +1,5 @@
 <h1 align="center">Hi 😄, I'm Guilherme</h1>
-<h3 align="center">A Web developer student and a experienced eletrician</h3>
+<h3 align="center">A Web developer student and a experienced electrician</h3>
 
 -    I am a college student of **Software Engineer** and **Electric Engineer**
 
